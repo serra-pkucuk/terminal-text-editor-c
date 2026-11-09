@@ -1,0 +1,14 @@
+# GCC and Make artifacts
+*.o
+*.obj
+*.out
+texteditor
+editor
+
+# Debugging and editor files
+debug.log
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.idea/
